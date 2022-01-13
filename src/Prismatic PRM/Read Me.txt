@@ -1,0 +1,3 @@
+Sadly prismatic joints do not work in peter corke’s robotics toolbox initially and things must be changed in toolbox please go to this link
+https://github.com/petercorke/robotics-toolbox-matlab/issues/21
+Follow the guide that requires editing plot.m to get the prismatic joints to work.
